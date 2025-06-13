@@ -11,8 +11,6 @@ Key Features:
 - Market concentration and competition analysis
 - Counterfactual policy simulation
 
-Author: [Your Name]
-Date: [Current Date]
 """
 
 import numpy as np
